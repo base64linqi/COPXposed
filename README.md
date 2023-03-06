@@ -12,6 +12,8 @@
 然后安装在自己的机器上即可
 ![image](https://user-images.githubusercontent.com/25584879/223045370-82df78f9-8179-42c7-97d4-feaed264e88a.png)
 
+### 注意
+**在使用过程中，可能会存在输出有问题的情况**
 
 
 ## 开源协议
