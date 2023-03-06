@@ -6,7 +6,7 @@
 您需要安装Xposed、Lsposed、EdXposed等，安装即可使用
 
 ## 使用
-某些Xposed版本有作用域，但还是会有很多杂乱的信息，因此请在判断中填写自己要检测的包名
+某些Xposed版本有作用域可以选择在某个应用程序上生效，但还是会有很多杂乱的信息，因此请在判断中填写自己要检测的包名
 ![image](https://user-images.githubusercontent.com/25584879/223043957-e50426d9-7151-4f93-852f-99969acfcd68.png)
 
 然后安装在自己的机器上即可
